@@ -1,0 +1,1131 @@
+{
+    "_parameters": {
+        "sport": "NFL",
+        "season": "2024",
+        "doubleheader": null,
+        "week": "6",
+        "date": null,
+        "start": null,
+        "season_type": null,
+        "direction": "asc",
+        "status": null,
+        "end": null,
+        "comp_id": null,
+        "event_id": null,
+        "event_slug": null,
+        "team_id": null,
+        "lineups": "true",
+        "park_factors": "true",
+        "officials": "false"
+    },
+    "events": [
+        {
+            "id": 21456,
+            "sr_id": "5f653c89-8800-4862-b642-6e73349326aa",
+            "sport": "NFL",
+            "scheduled": "2024-10-11 00:15:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "SEA",
+            "visitor": "SF",
+            "link": "/nfl/matchups/san-francisco-49ers-vs-seattle-seahawks/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 705,
+            "venue": {
+                "name": "Lumen Field",
+                "id": null,
+                "city": "Seattle",
+                "state": "WA",
+                "country": "USA",
+                "zip": "98134",
+                "surface": "artificial",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "SEA",
+                    "name": "Seahawks",
+                    "link": "/nfl/teams/seattle-seahawks/",
+                    "team": {
+                        "city": "Seattle",
+                        "abbreviation": "SEA",
+                        "conference": "NFC",
+                        "division": "West",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "seattle-seahawks"
+                    }
+                },
+                {
+                    "id": "SF",
+                    "name": "49ers",
+                    "link": "/nfl/teams/san-francisco-49ers/",
+                    "team": {
+                        "city": "San Francisco",
+                        "abbreviation": "SF",
+                        "conference": "NFC",
+                        "division": "West",
+                        "record": {
+                            "W": 2,
+                            "L": 3,
+                            "T": 0
+                        },
+                        "slug": "san-francisco-49ers"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "Amazon Prime Video",
+                    "type": "tv"
+                }
+            ],
+            "is_free": true
+        },
+        {
+            "id": 21245,
+            "sr_id": "09f61bb9-572a-4790-a131-9c205522abfb",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 13:30:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "CHI",
+            "visitor": "JAC",
+            "link": "/nfl/matchups/chicago-bears-vs-jacksonville-jaguars/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 149,
+            "venue": {
+                "name": "Tottenham Hotspur Stadium",
+                "id": null,
+                "city": "London",
+                "state": "",
+                "country": "GBR",
+                "zip": "",
+                "surface": "artificial",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "CHI",
+                    "name": "Bears",
+                    "link": "/nfl/teams/chicago-bears/",
+                    "team": {
+                        "city": "Chicago",
+                        "abbreviation": "CHI",
+                        "conference": "NFC",
+                        "division": "North",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "chicago-bears"
+                    }
+                },
+                {
+                    "id": "JAC",
+                    "name": "Jaguars",
+                    "link": "/nfl/teams/jacksonville-jaguars/",
+                    "team": {
+                        "city": "Jacksonville",
+                        "abbreviation": "JAC",
+                        "conference": "AFC",
+                        "division": "South",
+                        "record": {
+                            "W": 1,
+                            "L": 4,
+                            "T": 0
+                        },
+                        "slug": "jacksonville-jaguars"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "NFL Network",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21460,
+            "sr_id": "13fb75af-f494-4866-a505-5186a54aadc7",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 17:00:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "NO",
+            "visitor": "TB",
+            "link": "/nfl/matchups/new-orleans-saints-vs-tampa-bay-buccaneers/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 89,
+            "venue": {
+                "name": "Caesars Superdome",
+                "id": null,
+                "city": "New Orleans",
+                "state": "LA",
+                "country": "USA",
+                "zip": "70112",
+                "surface": "artificial",
+                "stadium_type": "dome"
+            },
+            "participants": [
+                {
+                    "id": "NO",
+                    "name": "Saints",
+                    "link": "/nfl/teams/new-orleans-saints/",
+                    "team": {
+                        "city": "New Orleans",
+                        "abbreviation": "NO",
+                        "conference": "NFC",
+                        "division": "South",
+                        "record": {
+                            "W": 2,
+                            "L": 3,
+                            "T": 0
+                        },
+                        "slug": "new-orleans-saints"
+                    }
+                },
+                {
+                    "id": "TB",
+                    "name": "Buccaneers",
+                    "link": "/nfl/teams/tampa-bay-buccaneers/",
+                    "team": {
+                        "city": "Tampa Bay",
+                        "abbreviation": "TB",
+                        "conference": "NFC",
+                        "division": "South",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "tampa-bay-buccaneers"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "FOX",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21461,
+            "sr_id": "6e73d4c1-01fa-4bf2-b1f5-5fdef567023f",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 17:00:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "GB",
+            "visitor": "ARI",
+            "link": "/nfl/matchups/arizona-cardinals-vs-green-bay-packers/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 95,
+            "venue": {
+                "name": "Lambeau Field",
+                "id": null,
+                "city": "Green Bay",
+                "state": "WI",
+                "country": "USA",
+                "zip": "54304",
+                "surface": "turf",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "GB",
+                    "name": "Packers",
+                    "link": "/nfl/teams/green-bay-packers/",
+                    "team": {
+                        "city": "Green Bay",
+                        "abbreviation": "GB",
+                        "conference": "NFC",
+                        "division": "North",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "green-bay-packers"
+                    }
+                },
+                {
+                    "id": "ARI",
+                    "name": "Cardinals",
+                    "link": "/nfl/teams/arizona-cardinals/",
+                    "team": {
+                        "city": "Arizona",
+                        "abbreviation": "ARI",
+                        "conference": "NFC",
+                        "division": "West",
+                        "record": {
+                            "W": 2,
+                            "L": 3,
+                            "T": 0
+                        },
+                        "slug": "arizona-cardinals"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "FOX",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21462,
+            "sr_id": "6e78054c-55e4-4d09-a121-1b46205869ac",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 17:00:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "TEN",
+            "visitor": "IND",
+            "link": "/nfl/matchups/indianapolis-colts-vs-tennessee-titans/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 81,
+            "venue": {
+                "name": "Nissan Stadium",
+                "id": null,
+                "city": "Nashville",
+                "state": "TN",
+                "country": "USA",
+                "zip": "37213",
+                "surface": "turf",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "TEN",
+                    "name": "Titans",
+                    "link": "/nfl/teams/tennessee-titans/",
+                    "team": {
+                        "city": "Tennessee",
+                        "abbreviation": "TEN",
+                        "conference": "AFC",
+                        "division": "South",
+                        "record": {
+                            "W": 1,
+                            "L": 3,
+                            "T": 0
+                        },
+                        "slug": "tennessee-titans"
+                    }
+                },
+                {
+                    "id": "IND",
+                    "name": "Colts",
+                    "link": "/nfl/teams/indianapolis-colts/",
+                    "team": {
+                        "city": "Indianapolis",
+                        "abbreviation": "IND",
+                        "conference": "AFC",
+                        "division": "South",
+                        "record": {
+                            "W": 2,
+                            "L": 3,
+                            "T": 0
+                        },
+                        "slug": "indianapolis-colts"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "CBS",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21463,
+            "sr_id": "cc2f6c53-7226-4fa6-a3c4-67a431c70b93",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 17:00:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "PHI",
+            "visitor": "CLE",
+            "link": "/nfl/matchups/cleveland-browns-vs-philadelphia-eagles/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 93,
+            "venue": {
+                "name": "Lincoln Financial Field",
+                "id": null,
+                "city": "Philadelphia",
+                "state": "PA",
+                "country": "USA",
+                "zip": "19148",
+                "surface": "turf",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "PHI",
+                    "name": "Eagles",
+                    "link": "/nfl/teams/philadelphia-eagles/",
+                    "team": {
+                        "city": "Philadelphia",
+                        "abbreviation": "PHI",
+                        "conference": "NFC",
+                        "division": "East",
+                        "record": {
+                            "W": 2,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "philadelphia-eagles"
+                    }
+                },
+                {
+                    "id": "CLE",
+                    "name": "Browns",
+                    "link": "/nfl/teams/cleveland-browns/",
+                    "team": {
+                        "city": "Cleveland",
+                        "abbreviation": "CLE",
+                        "conference": "AFC",
+                        "division": "North",
+                        "record": {
+                            "W": 1,
+                            "L": 4,
+                            "T": 0
+                        },
+                        "slug": "cleveland-browns"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "FOX",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21464,
+            "sr_id": "e082956c-1350-4d9c-a6e9-444c48471a9b",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 17:00:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "NE",
+            "visitor": "HOU",
+            "link": "/nfl/matchups/houston-texans-vs-new-england-patriots/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 99,
+            "venue": {
+                "name": "Gillette Stadium",
+                "id": null,
+                "city": "Foxborough",
+                "state": "MA",
+                "country": "USA",
+                "zip": "02035",
+                "surface": "artificial",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "NE",
+                    "name": "Patriots",
+                    "link": "/nfl/teams/new-england-patriots/",
+                    "team": {
+                        "city": "New England",
+                        "abbreviation": "NE",
+                        "conference": "AFC",
+                        "division": "East",
+                        "record": {
+                            "W": 1,
+                            "L": 4,
+                            "T": 0
+                        },
+                        "slug": "new-england-patriots"
+                    }
+                },
+                {
+                    "id": "HOU",
+                    "name": "Texans",
+                    "link": "/nfl/teams/houston-texans/",
+                    "team": {
+                        "city": "Houston",
+                        "abbreviation": "HOU",
+                        "conference": "AFC",
+                        "division": "South",
+                        "record": {
+                            "W": 4,
+                            "L": 1,
+                            "T": 0
+                        },
+                        "slug": "houston-texans"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "CBS",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21465,
+            "sr_id": "ebbbb0f7-6445-4360-b193-ace9f821b0a4",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 17:00:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "BAL",
+            "visitor": "WAS",
+            "link": "/nfl/matchups/baltimore-ravens-vs-washington-commanders/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 162,
+            "venue": {
+                "name": "M&T Bank Stadium",
+                "id": null,
+                "city": "Baltimore",
+                "state": "MD",
+                "country": "USA",
+                "zip": "21230",
+                "surface": "turf",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "BAL",
+                    "name": "Ravens",
+                    "link": "/nfl/teams/baltimore-ravens/",
+                    "team": {
+                        "city": "Baltimore",
+                        "abbreviation": "BAL",
+                        "conference": "AFC",
+                        "division": "North",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "baltimore-ravens"
+                    }
+                },
+                {
+                    "id": "WAS",
+                    "name": "Commanders",
+                    "link": "/nfl/teams/washington-commanders/",
+                    "team": {
+                        "city": "Washington",
+                        "abbreviation": "WAS",
+                        "conference": "NFC",
+                        "division": "East",
+                        "record": {
+                            "W": 4,
+                            "L": 1,
+                            "T": 0
+                        },
+                        "slug": "washington-commanders"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "CBS",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21472,
+            "sr_id": "3cb822b0-82f9-4f8b-92f2-c8dc7066e4fa",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 20:05:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "DEN",
+            "visitor": "LAC",
+            "link": "/nfl/matchups/denver-broncos-vs-los-angeles-chargers/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 111,
+            "venue": {
+                "name": "Empower Field at Mile High",
+                "id": null,
+                "city": "Denver",
+                "state": "CO",
+                "country": "USA",
+                "zip": "80204",
+                "surface": "turf",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "DEN",
+                    "name": "Broncos",
+                    "link": "/nfl/teams/denver-broncos/",
+                    "team": {
+                        "city": "Denver",
+                        "abbreviation": "DEN",
+                        "conference": "AFC",
+                        "division": "West",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "denver-broncos"
+                    }
+                },
+                {
+                    "id": "LAC",
+                    "name": "Chargers",
+                    "link": "/nfl/teams/los-angeles-chargers/",
+                    "team": {
+                        "city": "Los Angeles",
+                        "abbreviation": "LAC",
+                        "conference": "AFC",
+                        "division": "West",
+                        "record": {
+                            "W": 2,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "los-angeles-chargers"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "CBS",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21473,
+            "sr_id": "d1f653b8-07dc-4b19-86b4-6a557247198a",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 20:05:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "LV",
+            "visitor": "PIT",
+            "link": "/nfl/matchups/las-vegas-raiders-vs-pittsburgh-steelers/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 90,
+            "venue": {
+                "name": "Allegiant Stadium",
+                "id": null,
+                "city": "Las Vegas",
+                "state": "NV",
+                "country": "USA",
+                "zip": "89118",
+                "surface": "turf",
+                "stadium_type": "dome"
+            },
+            "participants": [
+                {
+                    "id": "LV",
+                    "name": "Raiders",
+                    "link": "/nfl/teams/las-vegas-raiders/",
+                    "team": {
+                        "city": "Las Vegas",
+                        "abbreviation": "LV",
+                        "conference": "AFC",
+                        "division": "West",
+                        "record": {
+                            "W": 2,
+                            "L": 3,
+                            "T": 0
+                        },
+                        "slug": "las-vegas-raiders"
+                    }
+                },
+                {
+                    "id": "PIT",
+                    "name": "Steelers",
+                    "link": "/nfl/teams/pittsburgh-steelers/",
+                    "team": {
+                        "city": "Pittsburgh",
+                        "abbreviation": "PIT",
+                        "conference": "AFC",
+                        "division": "North",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "pittsburgh-steelers"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "CBS",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21474,
+            "sr_id": "19bc4a68-74f3-436f-8011-ebde53658075",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 20:25:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "CAR",
+            "visitor": "ATL",
+            "link": "/nfl/matchups/atlanta-falcons-vs-carolina-panthers/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 99,
+            "venue": {
+                "name": "Bank of America Stadium",
+                "id": null,
+                "city": "Charlotte",
+                "state": "NC",
+                "country": "USA",
+                "zip": "28202",
+                "surface": "artificial",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "CAR",
+                    "name": "Panthers",
+                    "link": "/nfl/teams/carolina-panthers/",
+                    "team": {
+                        "city": "Carolina",
+                        "abbreviation": "CAR",
+                        "conference": "NFC",
+                        "division": "South",
+                        "record": {
+                            "W": 1,
+                            "L": 4,
+                            "T": 0
+                        },
+                        "slug": "carolina-panthers"
+                    }
+                },
+                {
+                    "id": "ATL",
+                    "name": "Falcons",
+                    "link": "/nfl/teams/atlanta-falcons/",
+                    "team": {
+                        "city": "Atlanta",
+                        "abbreviation": "ATL",
+                        "conference": "NFC",
+                        "division": "South",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "atlanta-falcons"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "FOX",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21475,
+            "sr_id": "834e4e99-909f-4755-b509-540356c9e183",
+            "sport": "NFL",
+            "scheduled": "2024-10-13 20:25:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "DAL",
+            "visitor": "DET",
+            "link": "/nfl/matchups/dallas-cowboys-vs-detroit-lions/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 119,
+            "venue": {
+                "name": "AT&T Stadium",
+                "id": null,
+                "city": "Arlington",
+                "state": "TX",
+                "country": "USA",
+                "zip": "76011",
+                "surface": "artificial",
+                "stadium_type": "retractable_dome"
+            },
+            "participants": [
+                {
+                    "id": "DAL",
+                    "name": "Cowboys",
+                    "link": "/nfl/teams/dallas-cowboys/",
+                    "team": {
+                        "city": "Dallas",
+                        "abbreviation": "DAL",
+                        "conference": "NFC",
+                        "division": "East",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "dallas-cowboys"
+                    }
+                },
+                {
+                    "id": "DET",
+                    "name": "Lions",
+                    "link": "/nfl/teams/detroit-lions/",
+                    "team": {
+                        "city": "Detroit",
+                        "abbreviation": "DET",
+                        "conference": "NFC",
+                        "division": "North",
+                        "record": {
+                            "W": 3,
+                            "L": 1,
+                            "T": 0
+                        },
+                        "slug": "detroit-lions"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "FOX",
+                    "type": "tv"
+                }
+            ],
+            "is_free": false
+        },
+        {
+            "id": 21476,
+            "sr_id": "2315028f-b91b-41c7-a964-c77b8607f605",
+            "sport": "NFL",
+            "scheduled": "2024-10-14 00:20:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "NYG",
+            "visitor": "CIN",
+            "link": "/nfl/matchups/cincinnati-bengals-vs-new-york-giants/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 96,
+            "venue": {
+                "name": "MetLife Stadium",
+                "id": null,
+                "city": "East Rutherford",
+                "state": "NJ",
+                "country": "USA",
+                "zip": "07073",
+                "surface": "artificial",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "NYG",
+                    "name": "Giants",
+                    "link": "/nfl/teams/new-york-giants/",
+                    "team": {
+                        "city": "New York",
+                        "abbreviation": "NYG",
+                        "conference": "NFC",
+                        "division": "East",
+                        "record": {
+                            "W": 2,
+                            "L": 3,
+                            "T": 0
+                        },
+                        "slug": "new-york-giants"
+                    }
+                },
+                {
+                    "id": "CIN",
+                    "name": "Bengals",
+                    "link": "/nfl/teams/cincinnati-bengals/",
+                    "team": {
+                        "city": "Cincinnati",
+                        "abbreviation": "CIN",
+                        "conference": "AFC",
+                        "division": "North",
+                        "record": {
+                            "W": 1,
+                            "L": 4,
+                            "T": 0
+                        },
+                        "slug": "cincinnati-bengals"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "NBC",
+                    "type": "tv"
+                }
+            ],
+            "is_free": true
+        },
+        {
+            "id": 21488,
+            "sr_id": "d64ecfa1-b9b8-4286-b131-40f3c2b3ad4e",
+            "sport": "NFL",
+            "scheduled": "2024-10-15 00:15:00",
+            "season": 2024,
+            "season_type": "REG",
+            "event_name": null,
+            "status": "scheduled",
+            "home": "NYJ",
+            "visitor": "BUF",
+            "link": "/nfl/matchups/buffalo-bills-vs-new-york-jets/",
+            "series_summary": null,
+            "week": "6",
+            "popularity": 98,
+            "venue": {
+                "name": "MetLife Stadium",
+                "id": null,
+                "city": "East Rutherford",
+                "state": "NJ",
+                "country": "USA",
+                "zip": "07073",
+                "surface": "artificial",
+                "stadium_type": "outdoor"
+            },
+            "participants": [
+                {
+                    "id": "NYJ",
+                    "name": "Jets",
+                    "link": "/nfl/teams/new-york-jets/",
+                    "team": {
+                        "city": "New York",
+                        "abbreviation": "NYJ",
+                        "conference": "AFC",
+                        "division": "East",
+                        "record": {
+                            "W": 2,
+                            "L": 3,
+                            "T": 0
+                        },
+                        "slug": "new-york-jets"
+                    }
+                },
+                {
+                    "id": "BUF",
+                    "name": "Bills",
+                    "link": "/nfl/teams/buffalo-bills/",
+                    "team": {
+                        "city": "Buffalo",
+                        "abbreviation": "BUF",
+                        "conference": "AFC",
+                        "division": "East",
+                        "record": {
+                            "W": 3,
+                            "L": 2,
+                            "T": 0
+                        },
+                        "slug": "buffalo-bills"
+                    }
+                }
+            ],
+            "weather": {
+                "forecast_temp": 0,
+                "forecast_wind_speed": 0,
+                "forecast_wind_direction": null,
+                "forecast_wind_degree": 0,
+                "forecast_rain_chance": 0,
+                "forecast_icon": null,
+                "forecast_pressure": 0,
+                "forecast_humidity": 0
+            },
+            "broadcasts": [
+                {
+                    "network": "ESPN",
+                    "type": "tv"
+                }
+            ],
+            "is_free": true
+        }
+    ],
+    "ts": 1728508815,
+    "utc": "2024-10-09 21:20:15"
+}
