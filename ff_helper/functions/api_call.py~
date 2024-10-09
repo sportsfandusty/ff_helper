@@ -1,0 +1,7 @@
+# functions/api_call.py
+import requests
+
+def make_api_call(url, headers):
+    response = requests.get(url, headers=headers)
+    return response
+
