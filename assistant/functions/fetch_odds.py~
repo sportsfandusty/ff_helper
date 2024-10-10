@@ -1,0 +1,30 @@
+def fetch_all_offers(market_id, event_id_string):
+    base_url = api_config['base_url'].rstrip("/")
+    url = f"{base_url}/offers?sport={api_config['sport']}&market_id={market_id}&event_id={event_id_string}&location={api_config['location']}&limit={api_config['limit']}&page=1"
+    debug_log(f"Fetching URL: {url}")
+
+    offers_data = {"offers": []}
+    
+    while url:
+        try:
+            response_offers = requests.get(url, headers=headers)
+            response_offers.raise_for_status()
+            data = response_offers.json()
+
+            if "offers" in data:
+                offers_data["offers"].extend(data["offers"])
+
+            next_url = data.get("_pagination", {}).get("next")
+            if next_url:
+                if not next_url.startswith("http"):
+                    next_url = f"{base_url}{next_url}"
+                url = next_url
+            else:
+                url = None
+        except requests.exceptions.RequestException as e:
+            print(f"Error fetching data: {e}")
+            break
+
+    debug_log(f"Offers fetched for market {market_id}.")
+    return offers_data
+
